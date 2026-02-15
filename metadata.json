@@ -1,0 +1,5 @@
+{
+  "name": "IntellectFeed AI",
+  "description": "An intelligent RSS aggregator and reporting assistant powered by Gemini. Generates structured reports and answers questions based on your feeds.",
+  "requestFramePermissions": []
+}
